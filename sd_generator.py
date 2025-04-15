@@ -2,7 +2,7 @@ import requests
 import uuid
 import os
 
-HUGGINGFACE_API_KEY = "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"  
+HUGGINGFACE_API_KEY = ""  
 
 def generate_image(prompt: str) -> str:
     api_url = "https://api-inference.huggingface.co/models/CompVis/stable-diffusion-v1-4"
