@@ -1,6 +1,6 @@
 import requests
 
-GIPHY_API_KEY = "msI2mVsxlJ9Hg8ZkOkQ4kabv0TrHRzjm"  
+GIPHY_API_KEY = ""  
 
 def fetch_gif_url(query: str) -> str:
     try:
