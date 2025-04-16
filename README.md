@@ -69,11 +69,11 @@ Distributed under the MIT License.
 
 Acknowledgments
 
-Gradio for the UI framework.
+1. Gradio for the UI framework.
 
-GIPHY for exercise GIFs.
+2. GIPHY for exercise GIFs.
 
-Hugging Face for AI image generation.
+3. Hugging Face for AI image generation.
 
 For more details, see the code comments and documentation in each module.
 
