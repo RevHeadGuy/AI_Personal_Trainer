@@ -24,6 +24,7 @@ Installation
 1. Clone the Repository:
 
 bash
+
 git clone https://github.com/yourusername/ai-personal-trainer.git
 
 cd ai-personal-trainer
@@ -31,6 +32,7 @@ cd ai-personal-trainer
 2. Install Dependencies:
 
 bash
+
 pip install -r requirements.txt
 
 Key dependencies include: Gradio, Requests, Pillow, ReportLab, OpenAI, python-dotenv, fpdf.
