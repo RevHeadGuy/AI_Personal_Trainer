@@ -57,11 +57,11 @@ Download your plan as a PDF for offline use.
 
 Contributing
 
-Fork the repo and create your branch.
+1. Fork the repo and create your branch.
 
-Commit your changes.
+2. Commit your changes.
 
-Open a pull request describing your modifications.
+3. Open a pull request describing your modifications.
 
 License
 
