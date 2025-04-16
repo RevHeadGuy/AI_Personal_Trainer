@@ -16,6 +16,7 @@ User-Friendly Interface: Built with Gradio for easy web-based interaction.
 Customizable Equipment & Goals: Supports various equipment and fitness objectives.
 
 Demo
+
 Launch the app locally or on a supported platform. Enter your details, and receive a detailed, day-by-day workout plan with media and PDF export.
 
 Installation
@@ -41,39 +42,21 @@ Add your GIPHY and Hugging Face API keys in the respective files or via environm
 4. Run the Application:
 
 bash
+
 python main.py
+
 Usage
+
 Input your details (age, weight, height, gender, goal, injuries, available equipment, days/week, session time).
 
 View your personalized plan with detailed exercises, sets, reps, GIF demos, and AI-generated images.
 
 Download your plan as a PDF for offline use.
 
-Project Structure
-File/Folder	Purpose
-main.py	Gradio interface and app entry point
-workout_logic.py	Core logic for generating workout plans
-pdf_exporter.py	PDF generation utility
-models.py	Data models for user input and workout plans
-data.py	Exercise database
-gif_fetcher.py	Fetches exercise GIFs from GIPHY
-sd_generator.py	Generates exercise images using Stable Diffusion
-requirements.txt	Python dependencies
-Example Output
-📅 Day 1:
-
-Jumping Jacks (5 sets of 15-20)
-Demo: [GIF Link]
-
-Push-ups (3 sets of 10-12)
-Demo: [GIF Link]
-
-Plank (4 sets of 12-15)
-Demo: [GIF Link]
-
 (PDF includes similar details with images)
 
 Contributing
+
 Fork the repo and create your branch.
 
 Commit your changes.
@@ -81,9 +64,11 @@ Commit your changes.
 Open a pull request describing your modifications.
 
 License
+
 Distributed under the MIT License.
 
 Acknowledgments
+
 Gradio for the UI framework.
 
 GIPHY for exercise GIFs.
