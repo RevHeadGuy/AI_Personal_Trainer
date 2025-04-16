@@ -1,6 +1,5 @@
-# AI_Personal_Trainer
+# AI Personal Trainer
 
-AI Personal Trainer – README
 Welcome to AI Personal Trainer, an AI-powered application that generates personalized workout plans, complete with GIF demonstrations, AI-generated visuals, and downloadable PDFs. This project leverages Gradio for an intuitive user interface and integrates several AI and data-driven components to deliver a holistic fitness planning experience.
 
 Features
@@ -20,22 +19,26 @@ Demo
 Launch the app locally or on a supported platform. Enter your details, and receive a detailed, day-by-day workout plan with media and PDF export.
 
 Installation
-Clone the Repository:
+
+1. Clone the Repository:
 
 bash
 git clone https://github.com/yourusername/ai-personal-trainer.git
+
 cd ai-personal-trainer
-Install Dependencies:
+
+2. Install Dependencies:
 
 bash
 pip install -r requirements.txt
+
 Key dependencies include: Gradio, Requests, Pillow, ReportLab, OpenAI, python-dotenv, fpdf.
 
-Set Up API Keys:
+3. Set Up API Keys:
 
 Add your GIPHY and Hugging Face API keys in the respective files or via environment variables.
 
-Run the Application:
+4. Run the Application:
 
 bash
 python main.py
