@@ -19,6 +19,9 @@ Demo
 
 Launch the app locally or on a supported platform. Enter your details, and receive a detailed, day-by-day workout plan with media and PDF export.
 
+<img width="1440" alt="Screenshot 2025-04-18 at 1 15 49 AM" src="https://github.com/user-attachments/assets/a2114b6f-efb8-4a95-b24b-7272c6ba9a1b" />
+
+
 Installation
 
 1. Clone the Repository:
